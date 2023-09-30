@@ -2,73 +2,7 @@
 <html>
 
 <head>
-  <style>
-    /* Add styles to your GitHub profile README */
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
-    }
 
-    h1 {
-      color: #0073e6;
-      font-size: 36px;
-      font-weight: bold;
-    }
-
-    h2 {
-      color: #333;
-      font-size: 24px;
-      font-weight: bold;
-      margin-top: 20px;
-    }
-
-    p {
-      color: #444;
-      font-size: 16px;
-    }
-
-    a {
-      color: #0073e6;
-      text-decoration: none;
-    }
-
-    ul {
-      list-style-type: square;
-      margin: 10px 0;
-      padding: 0 0 0 30px;
-    }
-
-    li {
-      color: #555;
-      font-size: 16px;
-    }
-
-    em {
-      font-style: italic;
-      color: #ff5722;
-    }
-
-    strong {
-      font-weight: bold;
-      color: #333;
-    }
-
-    .animated {
-      animation: pulse 2s infinite;
-    }
-
-    @keyframes pulse {
-      0% {
-        opacity: 0.7;
-      }
-      50% {
-        opacity: 1;
-      }
-      100% {
-        opacity: 0.7;
-      }
-    }
-  </style>
 </head>
 
 <body>
