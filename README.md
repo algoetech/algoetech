@@ -1,42 +1,111 @@
-### Hi there 👋
-### Welcome to Algo-E Tech's GitHub Profile!
+<!DOCTYPE html>
+<html>
 
-We are Algo-E Tech (Algorithmic and Electronic Technologies), a team passionate about technology, networking, problem-solving, and AI. Our GitHub account is moderated by Aman S. Tairo, who serves as both the CTO and CFO of our company. You can find him on GitHub at [tairocruiz](https://github.com/tairocruiz).
+<head>
+  <style>
+    /* Add styles to your GitHub profile README */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    }
 
-🔭 **We’re currently working on**:
-- WISP Manager System: Streamlining wireless internet service provider operations.
-- Inventory Management System: Optimizing inventory tracking and management.
+    h1 {
+      color: #0073e6;
+      font-size: 36px;
+      font-weight: bold;
+    }
 
-🌱 **We’re currently learning**:
-- Advanced networking technologies.
-- Cutting-edge AI concepts.
-- Efficient computer algorithms.
+    h2 {
+      color: #333;
+      font-size: 24px;
+      font-weight: bold;
+      margin-top: 20px;
+    }
 
-👯 **We’re looking to collaborate on**:
-- Open-source networking projects.
-- Innovative AI applications.
-- Problem-solving challenges.
-- Anything related to our areas of expertise.
+    p {
+      color: #444;
+      font-size: 16px;
+    }
 
-🤔 **We’re looking for help with**:
-- Fine-tuning our AI models.
-- Scaling our networking solutions.
-- Solving complex algorithmic problems.
+    a {
+      color: #0073e6;
+      text-decoration: none;
+    }
 
-💬 **Ask us about**:
-- Programming expertise in Laravel, PHP, and jQuery technologies.
-- Networking solutions and best practices.
-- AI implementation and use cases.
+    ul {
+      list-style-type: square;
+      margin: 10px 0;
+      padding: 0 0 0 30px;
+    }
 
-📫 **How to reach us**:
-- Email: [algoetech@yahoo.com](mailto:algoetech@yahoo.com)
-- GitHub: [Algo-E Tech](https://github.com/AlgoETech)
+    li {
+      color: #555;
+      font-size: 16px;
+    }
 
-😄 **Pronouns**:
-- We embrace diversity and inclusion. 
+    em {
+      font-style: italic;
+      color: #ff5722;
+    }
 
-⚡ **Fun fact**:
-- Our team enjoys tackling challenging problems together and finding innovative solutions!
+    strong {
+      font-weight: bold;
+      color: #333;
+    }
 
-Thanks for visiting our profile! Feel free to explore our repositories and connect with us. Let's collaborate and make technology work for you. 🚀
+    .animated {
+      animation: pulse 2s infinite;
+    }
 
+    @keyframes pulse {
+      0% {
+        opacity: 0.7;
+      }
+      50% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0.7;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1><span class="animated">Welcome to Algo-E Tech's GitHub Profile! 👋</span></h1>
+
+  <p>We are <strong>Algo-E Tech</strong> (Algorithmic and Electronic Technologies), a team passionate about technology, networking, problem-solving, and AI. Our GitHub account is moderated by Aman S. Tairo, who serves as both the CTO and CFO of our company. You can find him on GitHub at <a href="https://github.com/tairocruiz" target="_blank"><em>tairocruiz</em></a>.</p>
+
+  <h2><span style="color: #ff5722;">🔭 We’re currently working on</span></h2>
+  <ul>
+    <li>WISP Manager System: Streamlining wireless internet service provider operations.</li>
+    <li>Inventory Management System: Optimizing inventory tracking and management.</li>
+  </ul>
+
+  <h2><span style="color: #4caf50;">🌱 We’re currently learning</span></h2>
+  <ul>
+    <li>Advanced networking technologies.</li>
+    <li>Cutting-edge AI concepts.</li>
+    <li>Efficient computer algorithms.</li>
+  </ul>
+
+  <h2><span style="color: #ff9800;">👯 We’re looking to collaborate on</span></h2>
+  <p>Open-source networking projects, innovative AI applications, problem-solving challenges, and anything related to our areas of expertise.</p>
+
+  <h2><span style="color: #e91e63;">🤔 We’re looking for help with</span></h2>
+  <p>Fine-tuning our AI models, scaling our networking solutions, and solving complex algorithmic problems.</p>
+
+  <h2><span style="color: #9c27b0;">💬 Ask us about</span></h2>
+  <p>Programming expertise in <strong>Laravel, PHP, and jQuery</strong> technologies, networking solutions and best practices, AI implementation and use cases.</p>
+
+  <h2><span style="color: #795548;">📫 How to reach us</span></h2>
+  <p>Email: <a href="mailto:algoetech@yahoo.com" target="_blank"><em>algoetech@yahoo.com</em></a><br>GitHub: <a href="https://github.com/AlgoETech" target="_blank">Algo-E Tech</a></p>
+
+  <h2><span style="color: #607d8b;">😄 Pronouns</span></h2>
+  <p>We embrace diversity and inclusion.</p>
+
+  <h2><span style="color: #f44336;">⚡ Fun fact</span></h2>
+  <p>Our team enjoys tackling challenging problems together and finding innovative solutions!</p>
+</body>
+
+</html>
